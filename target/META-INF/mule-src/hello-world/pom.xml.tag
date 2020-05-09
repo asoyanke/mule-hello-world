@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-       	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.mule.examples</groupId>
 	<artifactId>hello-world</artifactId>
 	<packaging>mule-application</packaging>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>hello-world</name>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -21,7 +19,7 @@
 		<connection>scm:git:https://github.com/asoyanke/hello-world.git</connection>
 		<url>https://github.com/asoyanke/hello-world</url>
 		<developerConnection>scm:git:https://github.com/asoyanke/hello-world.git</developerConnection>
-		<tag>${project.version}</tag>
+		<tag>hello-world-1.0.0</tag>
 	</scm>
 	<build>
 		<plugins>

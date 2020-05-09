@@ -4,7 +4,7 @@
   ],
   "secureProperties": [],
   "redeploymentEnabled": true,
-  "name": "org.mule.examples:hello-world:1.0.0",
+  "name": "org.mule.examples:hello-world:1.0.0-SNAPSHOT",
   "minMuleVersion": "4.1.4",
   "requiredProduct": "MULE_EE",
   "classLoaderModelLoaderDescriptor": {
