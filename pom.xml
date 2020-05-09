@@ -4,7 +4,7 @@
 	<groupId>org.mule.examples</groupId>
 	<artifactId>hello-world</artifactId>
 	<packaging>mule-application</packaging>
-	<version>1.0.1-200509</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>hello-world</name>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
