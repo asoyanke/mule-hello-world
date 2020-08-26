@@ -1,4 +1,4 @@
-# Hello World
+# Mule Hello World
 
 This application demonstrates a simple HTTP request-response activity. Mule responds to end user calls submitted via a Web browser with a message that reads, "Hello World". This example was designed to demonstrate the ability of a Mule application to interact with an end user via an HTTP request. The goal is to introduce users to Anypoint Studio by illustrating very simple functionality.
 
